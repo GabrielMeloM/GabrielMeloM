@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Apaixonado por tecnologia e qualidade de software
-Sou automatizador de testes :computer:
+<br/>Sou automatizador de testes :computer:
 
  <br/> :purple_heart: &nbsp; Buscando aprender com novos projetos.
  <br/> :blush: &nbsp; Posso te ajudar com meu empenho e rápida aprendizagem.
