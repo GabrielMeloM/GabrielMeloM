@@ -4,8 +4,8 @@
 # Gabriel Melo
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Python Developer :computer:
+Apaixonado por tecnologia e qualidade de software
+Sou automatizador de testes :computer:
 
  <br/> :purple_heart: &nbsp; Buscando aprender com novos projetos.
  <br/> :blush: &nbsp; Posso te ajudar com meu empenho e rápida aprendizagem.
